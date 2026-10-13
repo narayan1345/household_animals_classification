@@ -1,6 +1,6 @@
-Name : Porla Neha
+Names : Porla Neha, Narayanan Arun
 
-SRN : PES1UG25AM808
+SRN : PES1UG25AM808, PES1UG24AM172
 
 Section : C
 
